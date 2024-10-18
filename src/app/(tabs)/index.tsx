@@ -1,9 +1,25 @@
-import { StyleSheet, Text, View } from "react-native";
+import { PAGES, RECENT } from "@/utils/data";
+import { ScrollView, StyleSheet, View } from "react-native";
+
+import { Header } from "@/components/header";
+import { RecentList } from "@/components/recent-list";
+import { PageList } from "@/components/page-list";
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Página Inicial</Text>
+      <Header />
+
+      <ScrollView 
+      showsVerticalScrollIndicator={false}
+      contentContainerStyle={{
+        // paddingTop: 24,
+        paddingBottom: 100,
+      }}
+      >
+        <RecentList data={RECENT} />
+        <PageList data={PAGES} />
+      </ScrollView>
     </View>
   )
 };
@@ -11,7 +27,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
+    paddingTop: 18,
   }
 });
