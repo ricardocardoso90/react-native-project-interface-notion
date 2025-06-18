@@ -1,6 +1,7 @@
 import { styles } from "./styles";
 import { colors } from "@/styles/colors";
 import { Feather } from "@expo/vector-icons";
+
 import { Image, Text, TouchableOpacity, View } from "react-native";
 
 export function Header() {
@@ -18,8 +19,8 @@ export function Header() {
 
       <TouchableOpacity>
         <Feather
-          name="more-horizontal"
           size={20}
+          name="more-horizontal"
           color={colors.gray[100]}
         />
       </TouchableOpacity>

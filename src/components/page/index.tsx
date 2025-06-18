@@ -7,7 +7,7 @@ type Props = {
   data: {
     id: string;
     title: string;
-  }
+  };
 };
 
 export function Page({ data }: Props) {
