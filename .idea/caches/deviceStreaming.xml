@@ -76,6 +76,7 @@
           <option name="screenY" value="2160" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="api" value="35" />
           <option name="brand" value="Lenovo" />
           <option name="codename" value="TB330FU" />
@@ -101,6 +102,8 @@
           <option name="screenY" value="2408" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="api" value="34" />
           <option name="brand" value="samsung" />
           <option name="codename" value="a15" />
@@ -149,6 +152,7 @@
           <option name="screenY" value="2340" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="api" value="34" />
           <option name="brand" value="google" />
           <option name="codename" value="akita" />
@@ -156,12 +160,25 @@
           <option name="labId" value="google" />
           <option name="manufacturer" value="Google" />
           <option name="name" value="Pixel 8a" />
+=======
+          <option name="api" value="31" />
+          <option name="brand" value="samsung" />
+          <option name="codename" value="a51" />
+          <option name="id" value="a51" />
+          <option name="labId" value="google" />
+          <option name="manufacturer" value="Samsung" />
+          <option name="name" value="Galaxy A51" />
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="screenDensity" value="420" />
           <option name="screenX" value="1080" />
           <option name="screenY" value="2400" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="api" value="35" />
+=======
+          <option name="api" value="34" />
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="brand" value="google" />
           <option name="codename" value="akita" />
           <option name="id" value="akita" />
@@ -550,6 +567,7 @@
           <option name="screenY" value="1600" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="api" value="35" />
           <option name="brand" value="motorola" />
           <option name="codename" value="kansas" />
@@ -562,6 +580,8 @@
           <option name="screenY" value="1604" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="api" value="34" />
           <option name="brand" value="google" />
           <option name="codename" value="komodo" />
@@ -586,6 +606,7 @@
           <option name="screenY" value="2244" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="api" value="34" />
           <option name="brand" value="motorola" />
           <option name="codename" value="lion" />
@@ -598,6 +619,8 @@
           <option name="screenY" value="1612" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="api" value="33" />
           <option name="brand" value="google" />
           <option name="codename" value="lynx" />
@@ -612,6 +635,7 @@
         <PersistentDeviceSelectionData>
           <option name="api" value="34" />
           <option name="brand" value="motorola" />
+<<<<<<< HEAD
           <option name="codename" value="lyriq" />
           <option name="id" value="lyriq" />
           <option name="labId" value="google" />
@@ -624,6 +648,8 @@
         <PersistentDeviceSelectionData>
           <option name="api" value="34" />
           <option name="brand" value="motorola" />
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="codename" value="manaus" />
           <option name="id" value="manaus" />
           <option name="labId" value="google" />
@@ -658,6 +684,7 @@
           <option name="screenY" value="2400" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="accessStatus">
             <list>
               <option value="EULA_NOT_ACCEPTED" />
@@ -726,6 +753,8 @@
           <option name="screenY" value="1604" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="api" value="31" />
           <option name="brand" value="google" />
           <option name="codename" value="oriole" />
@@ -824,6 +853,7 @@
           <option name="screenY" value="2340" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="accessStatus">
             <list>
               <option value="EULA_NOT_ACCEPTED" />
@@ -964,6 +994,8 @@
           <option name="screenY" value="2160" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="api" value="34" />
           <option name="brand" value="google" />
           <option name="codename" value="shiba" />
@@ -1039,6 +1071,7 @@
           <option name="screenY" value="2424" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+<<<<<<< HEAD
           <option name="api" value="36" />
           <option name="brand" value="google" />
           <option name="codename" value="tokay" />
@@ -1086,6 +1119,8 @@
           <option name="screenY" value="2400" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
           <option name="api" value="34" />
           <option name="brand" value="samsung" />
           <option name="codename" value="xcover7" />
@@ -1097,6 +1132,7 @@
           <option name="screenX" value="1080" />
           <option name="screenY" value="2408" />
         </PersistentDeviceSelectionData>
+<<<<<<< HEAD
         <PersistentDeviceSelectionData>
           <option name="accessStatus">
             <list>
@@ -1167,6 +1203,8 @@
           <option name="screenX" value="2032" />
           <option name="screenY" value="3048" />
         </PersistentDeviceSelectionData>
+=======
+>>>>>>> bdb192f9886e7e36bcb1c13be0f0f9cf49132e8b
       </list>
     </option>
   </component>
